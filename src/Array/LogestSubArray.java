@@ -1,3 +1,4 @@
+package Array;
 public class LogestSubArray {
     public static void main(String[] args) throws Exception {
         System.out.println(longestSubarray(new int[] { 0, 1, 1, 1, 0, 1, 1, 0, 1}));
