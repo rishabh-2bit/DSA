@@ -1,6 +1,7 @@
 # Ignore build outputs
 /target/
 /build/
+bin/
 
 # Ignore IntelliJ IDEA and Eclipse project files
 .idea/
